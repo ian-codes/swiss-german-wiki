@@ -1,0 +1,11 @@
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\bin\Debug\net8.0\Sgw.Domain.deps.json
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\bin\Debug\net8.0\Sgw.Domain.dll
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\bin\Debug\net8.0\Sgw.Domain.pdb
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\obj\Debug\net8.0\Sgw.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\obj\Debug\net8.0\Sgw.Domain.AssemblyInfoInputs.cache
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\obj\Debug\net8.0\Sgw.Domain.AssemblyInfo.cs
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\obj\Debug\net8.0\Sgw.Domain.csproj.CoreCompileInputs.cache
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\obj\Debug\net8.0\Sgw.Domain.dll
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\obj\Debug\net8.0\refint\Sgw.Domain.dll
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\obj\Debug\net8.0\Sgw.Domain.pdb
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Domain\obj\Debug\net8.0\ref\Sgw.Domain.dll

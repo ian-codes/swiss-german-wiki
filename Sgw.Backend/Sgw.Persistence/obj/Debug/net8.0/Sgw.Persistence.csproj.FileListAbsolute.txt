@@ -1,0 +1,17 @@
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\bin\Debug\net8.0\Sgw.Persistence.deps.json
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\bin\Debug\net8.0\Sgw.Persistence.dll
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\bin\Debug\net8.0\Sgw.Persistence.pdb
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\bin\Debug\net8.0\Sgw.Application.dll
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\bin\Debug\net8.0\Sgw.Domain.dll
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\bin\Debug\net8.0\Sgw.Application.pdb
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\bin\Debug\net8.0\Sgw.Domain.pdb
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\obj\Debug\net8.0\Sgw.Persistence.csproj.AssemblyReference.cache
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\obj\Debug\net8.0\Sgw.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\obj\Debug\net8.0\Sgw.Persistence.AssemblyInfoInputs.cache
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\obj\Debug\net8.0\Sgw.Persistence.AssemblyInfo.cs
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\obj\Debug\net8.0\Sgw.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\obj\Debug\net8.0\Sgw.Persistence.csproj.CopyComplete
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\obj\Debug\net8.0\Sgw.Persistence.dll
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\obj\Debug\net8.0\refint\Sgw.Persistence.dll
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\obj\Debug\net8.0\Sgw.Persistence.pdb
+C:\Users\iankr\Desktop\Triage\Dev\Swissgerman Wiki\sgw.backend\Sgw.Persistence\obj\Debug\net8.0\ref\Sgw.Persistence.dll
