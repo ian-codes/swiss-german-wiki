@@ -2,7 +2,7 @@
 using Sgw.Domain.Interfaces;
 using Sgw.Domain.Post;
 using Sgw.Domain.User;
-using Sgw.Persistence.Entities.Post;
+using Sgw.Persistence.DataModels.Post;
 using Sgw.Persistence.Persistence;
 
 namespace Sgw.Persistence.Repositories;
@@ -16,7 +16,7 @@ public class PostRepository : IPostRepository
     }
     
     private readonly DatabaseContext _dbContext;
-    private readonly DbSet<PostEntity> _words;
+    private readonly DbSet<PostData> _words;
     
     
     public Task<List<PostModel>> FindPostsByWord(string word)

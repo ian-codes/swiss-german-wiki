@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "k3Y/4MqUrTTz6Q2cFsNGI4vAJscYqWzjUCUoA768/WArCYkU1qGPI2KgvJNeacS9Wg9FGBiMizLjPglVgHuijQ==",
+  "dgSpecHash": "02u9jl5UFurhzkG/flwMwK3iM/7yvZ1/6w5qoYMYiHDeiukqPOVL5NRiWaru4Kq3q/qiZMmCwCh3zy2EyZ8JMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\iankr\\Desktop\\Triage\\Dev\\Swissgerman Wiki\\sgw.backend\\Sgw.API\\Sgw.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\iankr\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\iankr\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\iankr\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\iankr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",

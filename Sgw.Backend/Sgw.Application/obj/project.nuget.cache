@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4VRDvLkX2eHhQFSSTOz+PA1Se7mdS+ifhpHHxHdH4DVrvvbr3DryR0oRPnIhBbbXpvRLF7MnfwdkwYMxsnZ+mA==",
+  "dgSpecHash": "qv98yEwXrSPpLSMv7emeg5NQD8t6rvN3UXlSzYdKIPbpIPzY9/+AspD/d9LRYGMz3UrTRiE8i+nrX7ESrV5FAA==",
   "success": true,
   "projectFilePath": "C:\\Users\\iankr\\Desktop\\Triage\\Dev\\Swissgerman Wiki\\sgw.backend\\Sgw.Application\\Sgw.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\iankr\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\iankr\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\iankr\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\iankr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"

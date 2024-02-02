@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "B7l68oM+PIb3syYn6oiHB+zDxNjVdUFusJAyil9yk3/ZVk7TKL+lCKLKeurVU/GYqZoGjZ6tVA+RmURRq/F/cA==",
+  "dgSpecHash": "VFBAt9OtsyuERFVna33AApto738On0Xosa5mAghw+IKi6Bn7aQiGx4gydLNrqvyauJOKnxypfLoONtOUa+aYlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\iankr\\Desktop\\Triage\\Dev\\Swissgerman Wiki\\sgw.backend\\Sgw.Persistence\\Sgw.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\iankr\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\iankr\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\iankr\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\iankr\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",

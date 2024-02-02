@@ -1,16 +1,17 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Sgw.Application.Commands.Posts;
+using Sgw.Application.Commands.Users;
 using Sgw.Application.DTOs.Posts;
+using Sgw.Application.DTOs.Users;
 using Sgw.Application.Queries;
 
-namespace Sgw.API.Controllers;
+namespace Sgw.API.Endpoints;
 
 [ApiController]
 [Route("[controller]")]
-public class PostController : ControllerBase
+public sealed class UserController : ControllerBase
 {
-    public PostController(ISender sender)
+    public UserController(ISender sender)
     {
         _sender = sender;
     }
@@ -19,10 +20,10 @@ public class PostController : ControllerBase
     
     
     [HttpPost]
-    public async Task<IActionResult> Create([FromBody] PostCreateDto postCreateDto, CancellationToken cancellationToken)
+    public async Task<IActionResult> SignUp([FromBody] UserCreateDto userCreateDto, CancellationToken cancellationToken)
     {
-        return await _sender.Send(new CreatePostCommand(postCreateDto), cancellationToken)
-        ? Created() : BadRequest();
+        return await _sender.Send(new SignUpUserCommand(userCreateDto), cancellationToken)
+            ? Created() : BadRequest();
     }
 
     

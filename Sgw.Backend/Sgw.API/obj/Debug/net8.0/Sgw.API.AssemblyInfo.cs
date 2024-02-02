@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sgw.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11a57864fedb8a982a9766e1e9db92eb5d035b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sgw.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sgw.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

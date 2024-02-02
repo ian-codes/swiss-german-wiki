@@ -1,8 +1,8 @@
-﻿using Sgw.Persistence.Entities.User;
+﻿using Sgw.Persistence.DataModels.User;
 
-namespace Sgw.Persistence.Entities.Post;
+namespace Sgw.Persistence.DataModels.Post;
 
-public class PostEntity
+public class PostData
 {
     public Guid Guid { get; set; }
     public string Word { get; set; }
@@ -10,5 +10,5 @@ public class PostEntity
     public string DefinitionEN { get; set; }
     public string Example { get; set; }
     
-    public UserEntity Author { get; set; }
+    public UserData Author { get; set; }
 }
